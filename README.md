@@ -5,11 +5,7 @@
 
 <br/>  
 
-## 👋 Hello, I'm Heeseong Kwon!
-
-I majored in applied statistics 📈, and I'm studying web application development 👨🏻‍💻. 
-
-
+## 👋🏻 Hello, I'm Heeseong Kwon!
 
 <a href="https://www.facebook.com/profile.php?id=100009176789375">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
@@ -22,4 +18,7 @@ I majored in applied statistics 📈, and I'm studying web application developme
 <a href="https://mail.google.com/mail/u/0/#inbox">
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com />
 </a>
+
+I majored in applied statistics 📈, and I'm studying web application development 👨🏻‍💻. 
+
 
