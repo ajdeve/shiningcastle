@@ -7,7 +7,7 @@
 
 ## 👋 Hello, I'm Heeseong Kwon!
 
-I majored in applied statistics👨🏻‍🎓, and I'm studying web application development👨🏻‍💻. 
+I majored in applied statistics 📈, and I'm studying web application development 👨🏻‍💻. 
 
 
 
