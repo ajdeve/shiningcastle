@@ -20,7 +20,7 @@
 Hello, I'm Heeseong Kwon, a aspiring developer 🌱 <br>
 I majored in applied statistics 📈, and I'm studying web application development 👨🏻‍💻. 
 
-<br>
+<br><br>
 
 ## Languages experienced 
 
