@@ -22,7 +22,7 @@ I majored in applied statistics 📈, and I'm studying web application developme
 
 <br><br>
 
-## Languages experienced 
+## Technical stack experienced 
 
 <br>
 
