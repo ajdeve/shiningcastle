@@ -14,10 +14,20 @@
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com />
 </a>
 
-## 👋🏻 Hello, I'm Heeseong Kwon!
+## 👋🏻 Hi. there!
+
+<br>
+Hello, I'm Heeseong Kwon, a aspiring developer 🌱
+I majored in applied statistics 📈, and I'm studying web application development 👨🏻‍💻. 
+
+<br>
+<hr>
+
+## Languages experienced 
 
 <br>
 
-I majored in applied statistics 📈, and I'm studying web application development 👨🏻‍💻. 
+<img src=https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white />
+
 
 
