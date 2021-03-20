@@ -11,11 +11,11 @@ I majored in applied statistics👨🏻‍🎓, and I'm studying web application
 
 
 
-<a href="https://www.facebook.com/jiyeon.rian.lee" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100009176789375">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@shiningcastle">
+<a href="https://velog.io/@shiningcastle">
 <img src=https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@shiningcastle" />
 </a>
 
