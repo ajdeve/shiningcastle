@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com />
 </a>
 
-## 👋🏻 Hi. there!
+## 👋🏻 Hi there!
 
 <br>
 Hello, I'm Heeseong Kwon, a aspiring developer 🌱 <br>
