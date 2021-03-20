@@ -34,6 +34,6 @@ I majored in applied statistics 📈, and I'm studying web application developme
 <img src="https://img.shields.io/badge/-Vue.js-01DF3A?style=for-the-badge&logo=vue.js&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/-Oracle-F80000?style = plastic&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=plastic&logo=oracle&logoColor=white" />
 </p>
 
