@@ -20,6 +20,6 @@ I majored in applied statistics 📈, and I'm studying web application developme
 </a>
 
 <a href="https://mail.google.com/mail/u/0/#inbox">
-<img src=https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com />
+<img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com />
 </a>
 
