@@ -16,6 +16,6 @@ I majored in applied statistics 📈, and I'm studying web application developme
 </a>
 
 <a href="https://velog.io/@shiningcastle">
-<img src=https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@shiningcastle" />
+<img src=https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@shiningcastle style="margin-bottom: 5px;" />
 </a>
 
