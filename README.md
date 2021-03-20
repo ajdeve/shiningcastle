@@ -27,14 +27,21 @@ I majored in applied statistics 📈, and I'm studying web application developme
 <br>
 
 <p align="left">
-<a href="">
+<a href="#">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/-Java-whitesmoke?style=for-the-badge&logo=java&logoColor=blue" /></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" /></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/-Vue.js-01DF3A?style=for-the-badge&logo=vue.js&logoColor=white" /></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a> &nbsp;
+<a href="#">
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
 </p>
 
