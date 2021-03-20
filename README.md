@@ -27,7 +27,7 @@ I majored in applied statistics 📈, and I'm studying web application developme
 
 <br>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Java-whitesmoke?style=for-the-badge&logo=java&logoColor=blue" />
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
