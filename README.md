@@ -31,13 +31,13 @@ I majored in applied statistics 📈, and I'm studying web application developme
 <a href="#">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/-Java-whitesmoke?style=for-the-badge&logo=java&logoColor=blue" /></a> &nbsp;
+<img src="https://img.shields.io/badge/-Java-9cf?style=for-the-badge&logo=java&logoColor=white" /></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" /></a> &nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=white" /></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
+<img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a> &nbsp;
 <a href="#">
