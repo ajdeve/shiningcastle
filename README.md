@@ -10,7 +10,7 @@
 <img src=https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@shiningcastle />
 </a>
 
-<a href="https://mail.google.com/mail/u/0/#inbox">
+<a href="matilto:kwon940329@gmail.com">
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com />
 </a>
 
