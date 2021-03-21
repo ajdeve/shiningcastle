@@ -37,6 +37,7 @@ If you are interested in the contents of my daily study, please visit
 <img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a>
 </p>
 
+<br>
 ## Contact 📩 
 
 <br>
