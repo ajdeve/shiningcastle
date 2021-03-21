@@ -10,11 +10,13 @@ I'm Heeseong Kwon, a aspiring developer. 🌱 <br>
 I majored in applied statistics 📈, and I'm studying web application development. 🖥 
 
 If you are interested in the contents of my daily study, please visit 
-<a href="https://velog.io/@shiningcastle"><img src=https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@shiningcastle /></a>
+<a href="https://velog.io/@shiningcastle">
+<img src=https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@shiningcastle />
+</a>
 
 <br><br>
 
-## Technical stack experienced 
+## Technical stack experienced 💡
 
 <br>
 
@@ -39,7 +41,7 @@ If you are interested in the contents of my daily study, please visit
 
 <br><br>
 
-## Contact 
+## Contact 📩 
 
 <br>
 
