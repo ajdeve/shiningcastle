@@ -29,7 +29,7 @@ I majored in applied statistics 📈, and I'm studying web application developme
 
 <p align="left">
 <a href="#">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> &nbsp;
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-Java-F6F6F6?style=for-the-badge&logo=java&logoColor=003399" /></a> &nbsp;
 <a href="#">
