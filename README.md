@@ -31,7 +31,7 @@ I majored in applied statistics 📈, and I'm studying web application developme
 <a href="#">
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/-Java-6699FF?style=for-the-badge&logo=java&logoColor=F6F6F6" /></a> &nbsp;
+<img src="https://img.shields.io/badge/-Java-F6F6F6?style=for-the-badge&logo=java&logoColor=003399" /></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a> &nbsp;
 <a href="#">
