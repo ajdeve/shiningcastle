@@ -14,6 +14,8 @@
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com />
 </a>
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](kwon940329@gmail.com)
+
 ## 👋🏻 Hi there!
 
 <br>
