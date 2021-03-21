@@ -37,7 +37,7 @@ I majored in applied statistics 📈, and I'm studying web application developme
 <a href="#">
 <img src="https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black" /></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/-Vue.js-01DF3A?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
+<img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a> &nbsp;
 <a href="#">
