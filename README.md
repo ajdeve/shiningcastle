@@ -29,11 +29,11 @@ I majored in applied statistics 📈, and I'm studying web application developme
 <-- &style=flat &style=plastic &style=flat-square &style=for-the-badge-->
 <p align="left">
 <a href="#">
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/></a> &nbsp;
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white&logoWidth=30"/></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/-Java-F6F6F6?&style=plastic&logo=java&logoColor=003399" /></a> &nbsp;
+<img src="https://img.shields.io/badge/-Java-F6F6F6?&style=plastic&logo=java&logoColor=003399&logoWidth=30" /></a> &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/-Spring-6DB33F?&style=flat-square&logo=spring&logoColor=white" /></a> &nbsp;
+<img src="https://img.shields.io/badge/-Spring-6DB33F?&style=flat-square&logo=spring&logoColor=white&logoWidth=30" /></a> &nbsp;
 <a href="#">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> <br>
 <a href="#">
